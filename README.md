@@ -6,13 +6,19 @@ A Symfony project created on August 21, 2017, 1:36 pm.
 ```
 As a user
 So that I know what I’m getting into
-I would like to be greeted by a welcome screen
+I would like 
 ```
 
 ```
 As a player
 So that I can enter myself as a player
-I would like to be able to create an account on the welcome screen
+I would like to be able to create an account
+```
+
+```
+As a player
+So that I can type the new account information in
+I would like to be able to see and use a create an account button on the welcome screen
 ```
 
 ```

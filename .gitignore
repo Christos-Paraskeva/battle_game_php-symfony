@@ -12,3 +12,4 @@
 /composer.phar
 /.idea/
 .idea/workspace.xml
+.DS_Store
