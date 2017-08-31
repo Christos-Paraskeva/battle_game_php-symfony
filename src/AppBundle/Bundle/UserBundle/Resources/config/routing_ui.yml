@@ -1,0 +1,3 @@
+register:
+    resource:  "@AppBundle/Bundle/UserBundle/Controller/"
+    type:      annotation
