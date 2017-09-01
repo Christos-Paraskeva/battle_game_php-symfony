@@ -75,5 +75,15 @@ class User
         return $this->email;
     }
 
+    public function setPassword($password)
+    {
+        $this->password = $password;
+    }
+
+    public function getPassword()
+    {
+        return $this->password;
+    }
+
 }
 
